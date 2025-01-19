@@ -1,6 +1,6 @@
 # Portfolio Website of Apratim Dutta
 
-![Website preview for the link tree](website preview/Screenshot 2025-01-19 142855.png)
+![Website preview for the link tree](https://github.com/Apratim23/Personal-Portfolio/blob/main/website%20preview/Screenshot%202025-01-19%20142855.png))
 Dive into my digital resume! This project showcases my skills, built with a focus on clean design and user experience. Explore my background and achievements through this modern HTML and CSS-powered website.
 
 ## Website Status & URL
